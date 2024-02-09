@@ -30,6 +30,7 @@ It should be noted that, in real-life contexts, misclassifications may have diff
 
 A virtual environment with:
 - Python 3 ipykernel
+
 The following libraries
 - pandas
 - numpy
