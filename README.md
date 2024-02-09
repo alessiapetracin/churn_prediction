@@ -1,7 +1,7 @@
 # Churn Prediction
 
 ### Introduction ###
-Churn prediction is a common classification task, which aims to identify customers who are more likely to cancel their subscription.
+Churn prediction is a common binary-classification task, which aims to identify customers who are more likely to cancel their subscription.
 It is widely used in banking, insurance companies, platforms that work on a subscription model and telephone companies, in order to
 identify and eventually target at-risk customers.
 
