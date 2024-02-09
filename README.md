@@ -1,4 +1,4 @@
-# CHURN PREDICTION
+# Churn Prediction
 
 ### Introduction ###
 Churn prediction is a common classification task, which aims to identify customers who are more likely to cancel their subscription.
